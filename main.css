@@ -104,7 +104,7 @@ main{
     margin-bottom: 1rem;
 }
 
-.tasks{
+.task{
     display: flex;
     justify-content: space-between;
     background-color: var(--darkest);
